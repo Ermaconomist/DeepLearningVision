@@ -1,6 +1,6 @@
 # DeepLearningVision
 
-(unfinished)
+(unfinished, Work in Progress)
 
 
 ## Labeling by hand
@@ -29,3 +29,12 @@ Surely, MASK RCNN offers a wide range on possible settings. Hyperparameters like
 
 ![Image of model results](https://github.com/Ermaconomist/DeepLearningVision/blob/main/img/5_results.png)
 
+
+@misc{matterport_maskrcnn_2017,
+  title={Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow},
+  author={Waleed Abdulla},
+  year={2017},
+  publisher={Github},
+  journal={GitHub repository},
+  howpublished={\url{https://github.com/matterport/Mask_RCNN}},
+}
