@@ -2,6 +2,12 @@
 
 (unfinished, Work in Progress)
 
+Intro
+
+#### Sources
+http://github.com - automatic!
+[GitHub](https://github.com/segments-ai/fast-labeling-workflow)
+
 
 ## Labeling by hand
 ![Image of segments.ai workflow](https://github.com/Ermaconomist/DeepLearningVision/blob/main/img/1_segments.ai.png)
