@@ -1,6 +1,6 @@
 # DeepLearningVision
 
-(unfinished, Work in Progress)
+(work in progress)
 
 
 ## Labeling by hand
