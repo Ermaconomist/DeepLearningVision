@@ -1,7 +1,6 @@
 # DeepLearningVision
 
-(work in progress)
-
+This repo gives a short introduction on the work we did as a semester group work.
 
 ## Labeling by hand
 ![Image of segments.ai workflow](https://github.com/Ermaconomist/DeepLearningVision/blob/main/img/1_segments.ai.png)
